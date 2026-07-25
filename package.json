@@ -31,5 +31,8 @@
   "resolutions": {
     "chrono-node": "2.7.5"
   },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  },
   "packageManager": "pnpm@9.15.9"
 }
